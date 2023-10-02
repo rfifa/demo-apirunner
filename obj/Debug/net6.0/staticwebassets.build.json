@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hXnImtJQ0Me7uOzf9R7FXSSFrU4Y9BcGzCMB4eEfhWE=",
+  "Source": "demo-apprunner",
+  "BasePath": "_content/demo-apprunner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
